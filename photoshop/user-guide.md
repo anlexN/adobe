@@ -61,7 +61,7 @@
   - [Knockout to reveal content from other layers (read: 1, last updated: Jun 25, 2020)](https://helpx.adobe.com/photoshop/using/knockout-reveal-content-layers.html)
 - Selections
   - [Select and Mask workspace (read: 1, last updated: Aug 20, 2021)](https://helpx.adobe.com/photoshop/using/select-mask.html)
-  - [Make quick selections (read: 1, last updated: Aug 20, 2021)](https://helpx.adobe.com/photoshop/using/making-quick-selections.html)
+  - [Make quick selections (read: 2, last updated: Oct 26, 2021)](https://helpx.adobe.com/photoshop/using/making-quick-selections.html)
   - [Get started with selections (read: 1, last updated: Nov 19, 2020)](https://helpx.adobe.com/photoshop/using/making-selections.html)
   - [Select with the marquee tools (read: 1, last updated: May 16, 2020)](https://helpx.adobe.com/photoshop/using/selecting-marquee-tools.html)
   - [Select with the lasso tools (read: 1, last updated: Aug 26, 2020)](https://helpx.adobe.com/photoshop/using/selecting-lasso-tools.html)
